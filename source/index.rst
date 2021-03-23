@@ -6,6 +6,8 @@
 Welcome to SunFounder's documentation!
 ======================================
 
+这篇文章来自我的Github,请参考 `SeayXu <https://github.com/SeayXu/>`_。
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
