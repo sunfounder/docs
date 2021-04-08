@@ -6,15 +6,6 @@
 Welcome to SunFounder's documentation!
 ======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
+* `ESP-4WD <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
+* `Thales Kit <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_ 
