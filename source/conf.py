@@ -44,9 +44,9 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 exclude_patterns = []
-html_static_path = ['static']
-html_favicon = 'sunfounder.png'
-html_logo = 'sunfounder.png'
+html_static_path = ['_static']
+html_favicon = '_static/img/sunfounder_icon.png'
+html_logo = '_static/img/sunfounder.png'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -59,7 +59,6 @@ html_logo = 'sunfounder.png'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
