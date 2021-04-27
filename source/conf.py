@@ -43,6 +43,11 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+exclude_patterns = []
+html_static_path = ['static']
+html_favicon = 'sunfounder.png'
+html_logo = 'sunfounder.png'
+
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -62,4 +67,8 @@ source_parsers = {
     '.md':CommonMarkParser,
 }
 source_suffix = ['.rst','.md']
+
+def setup(app):
+    app.add_javascript('js/skip.js')
+
 
