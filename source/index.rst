@@ -6,6 +6,14 @@
 Welcome to SunFounder's Documentation!
 ========================================
 
-* `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
+Learning Kit
+----------------
+
+* `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
+
+Robot Kit
+---------------
+
+*  `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
-* `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_ 
+* `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
