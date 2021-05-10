@@ -6,5 +6,10 @@ window.onload =function(){
 	document.getElementsByClassName("icon-home")[0].setAttribute('target','_blank');
     nav = document.getElementsByClassName("wy-body-for-nav")[0];
 
+    // fotter = document.getElementsByTagName("footer")[0];
+    // fotter.innerHTML = `<hr/><div role="contentinfo"><p>&copy; Copyright 2021, SunFounder</p></div>`
+
+    document.getElementsByTagName("footer")[0].innerHTML=`<hr/><div role="contentinfo"><p>Copyright 2021, SunFounder</p></div>`;
+    
 }
 
