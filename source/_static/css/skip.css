@@ -1,0 +1,22 @@
+.setMenu{
+    overflow-y: hidden;
+  }
+  .setMenu::-webkit-scrollbar {
+    background: transparent;
+    height: 4px;
+  }
+  /* .setMenu::-webkit-scrollbar-track{
+    background-color: #019cda;
+    height: 5px;
+  } */
+  .setMenu::-webkit-scrollbar-track-piece {
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #ccc;
+    
+  } 
+  .setMenu::-webkit-scrollbar-thumb{
+    background: #019cda;
+    height: 4px;
+  
+  }

@@ -67,7 +67,11 @@ source_parsers = {
 }
 source_suffix = ['.rst','.md']
 
-def setup(app):
-    app.add_javascript('js/skip.js')
+html_js_files = [
+    'js/skip.js',
+]
+html_css_files = [
+    'css/skip.css',
+]
 
 
