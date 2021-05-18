@@ -46,7 +46,7 @@ exclude_patterns = []
 exclude_patterns = []
 html_static_path = ['_static']
 html_favicon = '_static/img/sunfounder_icon.png'
-html_logo = '_static/img/sunfounder.png'
+#html_logo = '_static/img/sunfounder.png'
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -68,10 +68,10 @@ source_parsers = {
 source_suffix = ['.rst','.md']
 
 html_js_files = [
-    'js/skip.js',
+    'https://ezblock.cc/readDocFile/topHead.js',
 ]
 html_css_files = [
-    'css/skip.css',
+    'https://ezblock.cc/readDocFile/topHead.css',
 ]
 
 
