@@ -11,7 +11,7 @@ Learning Kit
 
 * `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/sunfounder-vincent-kit-for-arduino/en/latest/>`_
-* `Da Vinci Kit for Raspberry Pi https://docs.sunfounder.com/projects/davinci-kit-for-raspberry-pi/en/latest/>`_
+* `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit-for-raspberry-pi/en/latest/>`_
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/sunfounder-uno-and-mega-kit/en/latest/>`_
 
