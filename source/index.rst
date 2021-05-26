@@ -23,6 +23,7 @@ Robot Kit
 * `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
 * `PiCar-V Car Kit <https://sunfounder-picar-v.readthedocs.io/en/latest/index.html#>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/sunfounder-picar-s/en/latest/>`_
+* `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 
 Screen
 --------------
