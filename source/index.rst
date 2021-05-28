@@ -24,7 +24,10 @@ Robot Kit
 * `PiCar-V Car Kit <https://sunfounder-picar-v.readthedocs.io/en/latest/index.html#>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/sunfounder-picar-s/en/latest/>`_
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
+* `PiCar-X Car Kit <https://docs.sunfounder.com/projects/sunfounder-picar-x/en/latest/>`_
 
 Screen
 --------------
 * `RasPad 3 <https://docs.sunfounder.com/projects/raspad3/en/latest/>`_
+* `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
+* 
