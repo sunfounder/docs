@@ -28,7 +28,7 @@ Robot Kit
 
 Screen
 --------------
-* `RasPad 3 <https://docs.sunfounder.com/projects/raspad3/en/latest/>`_
+* `RasPad 3 <https://docs.raspad.com/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
 
 
