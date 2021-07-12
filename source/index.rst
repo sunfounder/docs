@@ -3,33 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SunFounder's Documentation!
-========================================
+Welcome to SunFounder's Documentations!
+============================================
 
 Learning Kit
 ----------------
-
+* `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
+* `Raphael Kit for Raspberry Pi <https://docs.sunfounder.com/projects/raphael-kit/en/latest/>`_
 * `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
-* `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
 
 Robot Kit
 ---------------
 
-*  `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
+* `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
 * `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
 * `PiCar-V Car Kit <https://docs.sunfounder.com/projects/picar-v/en/latest/>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/picar-s/en/latest/>`_
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
+* `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
+* `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
 
 Screen
 --------------
 * `RasPad 3 <https://docs.sunfounder.com/projects/raspad3/en/latest/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
+* `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-diy-touch-screen/en/latest/>`_
+* `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-touch-screen/en/latest/>`_
+* `10.1-inch Touch Screen <https://docs.sunfounder.com/projects/101-touch-screen/en/latest/>`_
 
 
 Ezblock
