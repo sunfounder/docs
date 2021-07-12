@@ -30,7 +30,7 @@ Robot Kit
 
 Screen
 --------------
-* `RasPad 3 <https://docs.sunfounder.com/projects/raspad3/en/latest/>`_
+* `RasPad 3 <https://docs.raspad.com/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
 * `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-diy-touch-screen/en/latest/>`_
 * `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-touch-screen/en/latest/>`_
