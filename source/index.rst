@@ -32,8 +32,8 @@ Screen
 --------------
 * `RasPad 3 <https://docs.raspad.com/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
-* `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-diy-touch-screen/en/latest/>`_
-* `7-inch Touch Screen <https://docs.sunfounder.com/projects/7-touch-screen/en/latest/>`_
+* `7-inch DIY Touch Screen <https://docs.sunfounder.com/projects/7-diy-touch-screen/en/latest/>`_
+* `7-inch Touch Screen with Case <https://docs.sunfounder.com/projects/7-touch-screen/en/latest/>`_
 * `10.1-inch Touch Screen <https://docs.sunfounder.com/projects/101-touch-screen/en/latest/>`_
 
 
