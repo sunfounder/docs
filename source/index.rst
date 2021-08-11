@@ -14,9 +14,14 @@ Learning Kit
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
+* `Super Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/superkit-v2-pi/en/latest/index.html>`_
+* `Super Kit V3 for Raspberry Pi <https://docs.sunfounder.com/projects/superkit-v3-pi/en/latest/>`_
+* `Sensor Kit V2 for Arduino <https://docs.sunfounder.com/projects/sensorkit-v2-arduino/en/latest/>`_
+* `Sensor Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/>`_
 
 Robot Kit
 ---------------
+
 
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
@@ -27,6 +32,12 @@ Robot Kit
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
 * `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
+* `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
+
+Project
+----------------
+
+* `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
 
 Screen
 --------------
@@ -35,8 +46,9 @@ Screen
 * `TS-7 7-inch DIY Touch Screen <https://docs.sunfounder.com/projects/ts-7/en/latest/index.html>`_
 * `TS-7C 7-inch Touch Screen <https://docs.sunfounder.com/projects/ts-7c/en/latest/index.html>`_
 * `TS-10 10.1-inch Touch Screen <https://docs.sunfounder.com/projects/ts-10/en/latest/>`_
+* `Rascam- DIY Camera Kit <https://docs.sunfounder.com/projects/rascam/en/latest/index.html>`_
 
-
-Ezblock
+Other
 ----------------
 `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
+`SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
