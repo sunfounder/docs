@@ -50,5 +50,5 @@ Screen
 
 Other
 ----------------
-`Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
-`SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
+* `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
+* `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
