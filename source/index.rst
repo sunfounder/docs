@@ -39,6 +39,8 @@ Project
 
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
 
+* `RGB Matrix Module <https://rgb-matrix.readthedocs.io/en/latest/index.html>`_
+
 Screen
 --------------
 * `RasPad 3 <https://docs.raspad.com/>`_
@@ -52,3 +54,4 @@ Other
 ----------------
 * `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
 * `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
+* `Robot HAT <https://robot-hat.readthedocs.io/en/latest/>`_
