@@ -22,7 +22,6 @@ Learning Kit
 Robot Kit
 ---------------
 
-
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
 * `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
@@ -32,13 +31,15 @@ Robot Kit
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
 * `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
+* `PiArm <https://piarm.readthedocs.io/en/latest/>`_
 * `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
 
 Project
 ----------------
 
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
-
+* `PiPower V1.0 <https://pipower-v1.readthedocs.io/en/latest/>`_
+* `Pan-Tilt HAT <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
 * `RGB Matrix Module <https://rgb-matrix.readthedocs.io/en/latest/index.html>`_
 
 Screen
