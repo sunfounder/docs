@@ -15,8 +15,10 @@
 机器人套件
 ---------------
 
-* `帕克 <https://picar-x-cn.readthedocs.io/en/latest/>`_
-* `Pisloth <https://pisloth-cn.readthedocs.io/en/latest/index.html>`_
+* `帕克智能小车 <https://picar-x-cn.readthedocs.io/en/latest/>`_
+* `Pisloth树懒机器人 <https://pisloth-cn.readthedocs.io/en/latest/index.html>`_
+* `PiCrawler蜘蛛机器人 <https://picrawler-cn.readthedocs.io/en/latest/>`_
+* `PiArm机械臂 <https://piarm-cn.readthedocs.io/en/latest/>`_
 
 
 
