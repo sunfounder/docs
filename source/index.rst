@@ -36,7 +36,7 @@ Robot Kit
 
 Project
 ----------------
-
+* `Icecube Tower Cooler <https://icecube.readthedocs.io/en/latest/>`_
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
 * `PiPower V1.0 <https://pipower-v1.readthedocs.io/en/latest/>`_
 * `Pan-Tilt HAT <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
