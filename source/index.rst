@@ -8,6 +8,7 @@ Welcome to SunFounder's Documentations!
 
 Learning Kit
 ----------------
+* `Euler Kit for Raspberry Pi Pico <https://euler-kit.readthedocs.io/en/latest/>`_
 * `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
 * `Raphael Kit for Raspberry Pi <https://docs.sunfounder.com/projects/raphael-kit/en/latest/>`_
 * `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
@@ -46,6 +47,7 @@ Screen
 --------------
 * `RasPad 3 <https://docs.raspad.com/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
+* `TS-7 Pro 7-inch Touch Screen <https://ts7-pro.readthedocs.io/en/latest/>`_
 * `TS-7 7-inch DIY Touch Screen <https://docs.sunfounder.com/projects/ts-7/en/latest/index.html>`_
 * `TS-7C 7-inch Touch Screen <https://docs.sunfounder.com/projects/ts-7c/en/latest/index.html>`_
 * `TS-10 10.1-inch Touch Screen <https://docs.sunfounder.com/projects/ts-10/en/latest/>`_
