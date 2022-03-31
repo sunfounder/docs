@@ -26,3 +26,4 @@
 ----------
 
 * `RasPad 3 <https://raspad3-cn.readthedocs.io/en/latest/>`_
+* `长毛象遥控器 <https://sf-controller-cn.readthedocs.io/zh/latest/>`_
