@@ -40,7 +40,8 @@ Project
 * `Icecube Tower Cooler <https://icecube.readthedocs.io/en/latest/>`_
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
 * `PiPower V1.0 <https://pipower-v1.readthedocs.io/en/latest/>`_
-* `Pan-Tilt HAT <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
+* `Pan-Tilt HAT V2.0 <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
+* `Pan-Tilt HAT V3.0 <https://docs.sunfounder.com/projects/pantilt-v3/en/latest/>`_
 * `RGB Matrix Module <https://rgb-matrix.readthedocs.io/en/latest/index.html>`_
 
 Screen
