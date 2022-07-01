@@ -9,21 +9,21 @@
 学习套件
 ---------
 
-* `SunFounder Uno R3学习套件 <https://uno-mega-kit-cn.readthedocs.io/en/latest/>`_
+* `SunFounder Uno R3学习套件 <https://docs.sunfounder.com/projects/uno-mega-kit-cn/zh/latest/>`_
 
 
 机器人套件
 ---------------
 
 * `帕克智能小车 <https://picar-x-cn.readthedocs.io/en/latest/>`_
-* `Pisloth树懒机器人 <https://pisloth-cn.readthedocs.io/en/latest/index.html>`_
-* `PiCrawler蜘蛛机器人 <https://picrawler-cn.readthedocs.io/en/latest/>`_
-* `PiArm机械臂 <https://piarm-cn.readthedocs.io/en/latest/>`_
+* `Pisloth树懒机器人 <https://docs.sunfounder.com/projects/picar-x-cn/zh/latest/>`_
+* `PiCrawler蜘蛛机器人 <https://docs.sunfounder.com/projects/picrawler-cn/zh/latest/>`_
+* `PiArm机械臂 <https://docs.sunfounder.com/projects/piarm/zh/latest/>`_
 
 
 
 其他
 ----------
 
-* `RasPad 3 <https://raspad3-cn.readthedocs.io/en/latest/>`_
-* `长毛象遥控器 <https://sf-controller-cn.readthedocs.io/zh/latest/>`_
+* `RasPad 3 <https://docs.sunfounder.com/projects/raspad3-cn/zh/latest/>`_
+* `长毛象遥控器 <https://docs.sunfounder.com/projects/sf-controller-cn/zh/latest/>`_
