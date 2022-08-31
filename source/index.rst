@@ -8,33 +8,35 @@ Welcome to SunFounder's Documentations!
 
 Learning Kit
 ----------------
-* `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
-* `Euler Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/euler-kit/en/latest/>`_
-* `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
+* `Kepler Kit for Raspberry Pi Pico W <https://docs.sunfounder.com/projects/kepler-kit/en/latest/>`_
 * `Raphael Kit for Raspberry Pi <https://docs.sunfounder.com/projects/raphael-kit/en/latest/>`_
+* `Euler Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/euler-kit/en/latest/>`_
+* `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
+* `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
 * `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
-* `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
+* `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
+* `Sensor Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/>`_
 * `Super Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/superkit-v2-pi/en/latest/index.html>`_
 * `Super Kit V3 for Raspberry Pi <https://docs.sunfounder.com/projects/superkit-v3-pi/en/latest/>`_
 * `Sensor Kit V2 for Arduino <https://docs.sunfounder.com/projects/sensorkit-v2-arduino/en/latest/>`_
-* `Sensor Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/>`_
 
 Robot Kit
 ---------------
 
+* `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
-* `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
-* `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
+* `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
+* `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
 * `PiCar-V Car Kit <https://docs.sunfounder.com/projects/picar-v/en/latest/>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/picar-s/en/latest/>`_
-* `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
-* `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
-* `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
+* `Sloth - DIY 4-DOF Robot Kit <https://docs.sunfounder.com/projects/sloth-kit/en/latest/>`_
 * `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
 * `PiArm Robotic Arm Kit <https://docs.sunfounder.com/projects/piarm/en/latest/>`_
 * `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
+* `X Sense HAT <https://docs.sunfounder.com/projects/x-sense-hat/en/latest/index.html>`_
+* `ESP-4WD Car Kit <https://docs.sunfounder.com/projects/esp-4wd/en/latest/index.html>`_
 
 Project
 ----------------
