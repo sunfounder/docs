@@ -14,15 +14,16 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_rtd_theme
-from recommonmark.parser import CommonMarkParser
 
+import sphinx_rtd_theme
+import time
 
 # -- Project information -----------------------------------------------------
 
-project = 'SunFounder'
-copyright = '2021, SunFounder'
-author = 'SunFounder'
+project = 'SunFounder Documents'
+copyright = f'{time.localtime().tm_year}, SunFounder'
+author = 'www.sunfounder.com'
+
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,8 +31,7 @@ author = 'SunFounder'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    'notfound.extension',
+extensions = ['sphinx.ext.autosectionlabel'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -43,9 +43,10 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-exclude_patterns = []
-html_static_path = ['_static']
-html_favicon = '_static/img/sunfounder_icon.png'
+
+#html_static_path = ['_static']
+
+#html_favicon = '_static/img/sunfounder_icon.png'
 #html_logo = '_static/img/sunfounder.png'
 
 
@@ -62,10 +63,7 @@ html_favicon = '_static/img/sunfounder_icon.png'
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-source_parsers = {
-    '.md':CommonMarkParser,
-}
-source_suffix = ['.rst','.md']
+
 
 html_js_files = [
     'https://ezblock.cc/readDocFile/custom.js',
