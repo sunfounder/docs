@@ -14,11 +14,8 @@ Learning Kit
 * `Kepler Kit for Raspberry Pi Pico W <https://docs.sunfounder.com/projects/kepler-kit/en/latest/>`_
 * `Raphael Kit for Raspberry Pi <https://docs.sunfounder.com/projects/raphael-kit/en/latest/>`_
 * `Euler Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/euler-kit/en/latest/>`_
-* `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
 * `Da Vinci Kit for Raspberry Pi <https://docs.sunfounder.com/projects/davinci-kit/en/latest/>`_
 * `Thales Kit for Raspberry Pi Pico <https://docs.sunfounder.com/projects/thales-kit/en/latest/index.html#>`_
-* `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
-* `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Sensor Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/>`_
 * `Super Kit V2 for Raspberry Pi <https://docs.sunfounder.com/projects/superkit-v2-pi/en/latest/index.html>`_
@@ -28,6 +25,7 @@ Learning Kit
 
 **Arduino**
 
+* `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
