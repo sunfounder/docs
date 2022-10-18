@@ -90,4 +90,6 @@ Others
 * `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
 * `Robot HAT <https://docs.sunfounder.com/projects/robot-hat/en/latest/>`_
 * `SunFounder Controller <https://docs.sunfounder.com/projects/sf-controller/en/latest/>`_
+* `SunFounder Components <https://docs.sunfounder.com/projects/sf-components/en/latest/>`_
+
 
