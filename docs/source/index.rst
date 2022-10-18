@@ -15,8 +15,8 @@
 机器人套件
 ---------------
 
-* `帕克智能小车 <https://picar-x-cn.readthedocs.io/en/latest/>`_
-* `Pisloth树懒机器人 <https://docs.sunfounder.com/projects/picar-x-cn/zh/latest/>`_
+* `帕克智能小车 <https://docs.sunfounder.com/projects/picar-x-cn/zh/latest/>`_
+* `Pisloth树懒机器人 <https://docs.sunfounder.com/projects/pisloth-cn/zh/latest/>`_
 * `PiCrawler蜘蛛机器人 <https://docs.sunfounder.com/projects/picrawler-cn/zh/latest/>`_
 * `PiArm机械臂 <https://docs.sunfounder.com/projects/piarm/zh/latest/>`_
 
