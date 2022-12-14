@@ -51,6 +51,7 @@ Robot Kit
 
 **Arduino**
 
+* `Zeus Car - Arduino Robot Car Kit <https://docs.sunfounder.com/projects/zeus-car/en/latest/>`_
 * `Sloth - DIY 4-DOF Robot Kit <https://docs.sunfounder.com/projects/sloth-kit/en/latest/>`_
 * `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
 
