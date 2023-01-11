@@ -42,6 +42,7 @@ Robot Kit
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
+* `PiDog Robot Kit <https://docs.sunfounder.com/projects/pidog/en/latest/>`_
 * `PiCar-V Car Kit <https://docs.sunfounder.com/projects/picar-v/en/latest/>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/picar-s/en/latest/>`_
 * `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
