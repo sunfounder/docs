@@ -39,6 +39,7 @@ Robot Kit
 **Raspberry Pi**
 
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
+* `(Japanese)PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/ja/latest/>`_
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
