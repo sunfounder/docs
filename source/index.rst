@@ -41,6 +41,7 @@ Robot Kit
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `(Japanese)PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/ja/latest/>`_
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
+* `Pico-4wd Car V2.0 Kit <https://docs.sunfounder.com/projects/pico-4wd-v2/en/latest/index.html>`_
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
 * `PiDog Robot Kit <https://docs.sunfounder.com/projects/pidog/en/latest/>`_
@@ -65,8 +66,8 @@ Project
 
 * `Pironman <https://docs.sunfounder.com/projects/pironman/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
+* `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
-* `PiPower V1.0 <https://docs.sunfounder.com/projects/pipower-v1/en/latest/>`_
 * `Pan-Tilt HAT V2.0 <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
 * `Pan-Tilt HAT V3.0 <https://docs.sunfounder.com/projects/pantilt-v3/en/latest/>`_
 * `Raspberry Pi RGB Matrix Module <https://docs.sunfounder.com/projects/rgb-matrix-rpi/en/latest/>`_
