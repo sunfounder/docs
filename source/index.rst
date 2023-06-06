@@ -31,6 +31,9 @@ Learning Kit
 * `Electronic Kit for Raspberry Pi and Arduino <https://docs.sunfounder.com/projects/electronic-kit/en/latest/index.html>`_
 * `Sensor Kit V2 for Arduino <https://docs.sunfounder.com/projects/sensorkit-v2-arduino/en/latest/>`_
 
+**ESP32**
+
+* `ESP32 Ultimate Kit <https://docs.sunfounder.com/projects/esp32-ultimate-kit/en/latest/>`_
 
 
 Robot Kit
@@ -55,6 +58,7 @@ Robot Kit
 **Arduino**
 
 * `Zeus Car - Arduino Robot Car Kit <https://docs.sunfounder.com/projects/zeus-car/en/latest/>`_
+* `GalaxyRVR - Arduino Mars Rover Kit <https://docs.sunfounder.com/projects/galaxy-rvr/en/latest/>`_
 * `Sloth - DIY 4-DOF Robot Kit <https://docs.sunfounder.com/projects/sloth-kit/en/latest/>`_
 * `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
 
@@ -65,6 +69,7 @@ Project
 **Raspberry Pi**
 
 * `Pironman <https://docs.sunfounder.com/projects/pironman/en/latest/>`_
+* `Pironman V2.0 <https://pironman-v2.readthedocs.io/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
