@@ -25,6 +25,8 @@ Learning Kit
 
 **Arduino**
 
+* `Arduino Uno R4 Basic Kit <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
+* `SunFounder 3 in 1 ultimate Starter Kit for Arduino Uno R4 <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
@@ -69,8 +71,9 @@ Project
 **Raspberry Pi**
 
 * `Pironman <https://docs.sunfounder.com/projects/pironman/en/latest/>`_
-* `Pironman V2.0 <https://pironman-v2.readthedocs.io/en/latest/>`_
+* `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
+* `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
 * `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
 * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
 * `Pan-Tilt HAT V2.0 <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
