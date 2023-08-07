@@ -6,7 +6,7 @@
 Welcome to SunFounder's Documentations!
 ============================================
 
-Learning Kit
+Learning Kits
 ===========================
 
 **Raspberry Pi**
@@ -25,8 +25,9 @@ Learning Kit
 
 **Arduino**
 
-* `Arduino Uno R4 Basic Kit <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
-* `SunFounder 3 in 1 ultimate Starter Kit for Arduino Uno R4 <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
+* `Ultimate Sensor Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/ultimate-sensor-kit/en/latest/>`_
+* `R4 Basic Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
+* `3-in-1 ultimate Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
@@ -38,7 +39,7 @@ Learning Kit
 * `ESP32 Ultimate Kit <https://docs.sunfounder.com/projects/esp32-ultimate-kit/en/latest/>`_
 
 
-Robot Kit
+Robot Kits
 ===================
 
 **Raspberry Pi**
@@ -65,12 +66,11 @@ Robot Kit
 * `Rollarm for Arduino <https://docs.sunfounder.com/projects/rollarm/en/latest/>`_
 
 
-Project
+Projects
 =====================
 
 **Raspberry Pi**
 
-* `Pironman <https://docs.sunfounder.com/projects/pironman/en/latest/>`_
 * `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
@@ -84,7 +84,7 @@ Project
 
 * `Arduino RGB Matrix Module <https://docs.sunfounder.com/projects/rgb-matrix/en/latest/index.html>`_
 
-Screen(Raspberry Pi)
+Screens(Raspberry Pi)
 =============================
 
 * `RasPad 3 <https://docs.raspad.com/en/latest/>`_
@@ -100,6 +100,7 @@ Others
 ==============
 * `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
 * `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
+* `Robot HAT V4.0 <https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/>`_
 * `Robot HAT <https://docs.sunfounder.com/projects/robot-hat/en/latest/>`_
 * `SunFounder Controller <https://docs.sunfounder.com/projects/sf-controller/en/latest/>`_
 * `SunFounder Components <https://docs.sunfounder.com/projects/sf-components/en/latest/>`_
