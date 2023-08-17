@@ -36,7 +36,7 @@ Learning Kits
 
 **ESP32**
 
-* `ESP32 Ultimate Kit <https://docs.sunfounder.com/projects/esp32-ultimate-kit/en/latest/>`_
+* `ESP32 Starter Kit <https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/>`_
 
 
 Robot Kits
