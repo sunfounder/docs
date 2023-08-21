@@ -25,9 +25,10 @@ Learning Kits
 
 **Arduino**
 
+* `3-in-1 ultimate Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `Ultimate Sensor Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/ultimate-sensor-kit/en/latest/>`_
 * `R4 Basic Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
-* `3-in-1 ultimate Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
+* `3 in 1 IoT/Smart Car/Learning Kit V2.0 <https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/>`_
 * `3 in 1 IoT/Smart Car/Learning Kit <https://docs.sunfounder.com/projects/3in1-kit/en/latest/>`_
 * `Vincent Kit for Arduino <https://docs.sunfounder.com/projects/vincent-kit/en/latest/>`_
 * `Uno and Mega Kit for Arduino <https://docs.sunfounder.com/projects/uno-mega-kit/en/latest/>`_
@@ -44,6 +45,7 @@ Robot Kits
 
 **Raspberry Pi**
 
+* `PiCar-X Car Kit V2.0 with Baterry <https://docs.sunfounder.com/projects/picar-x-v20/en/latest/>`_
 * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `(Japanese)PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/ja/latest/>`_
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
