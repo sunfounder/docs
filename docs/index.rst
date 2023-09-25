@@ -25,7 +25,7 @@ Learning Kits
 
 **Arduino**
 
-* `3-in-1 ultimate Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
+* `3-in-1 Starter Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `Ultimate Sensor Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/ultimate-sensor-kit/en/latest/>`_
 * `R4 Basic Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
 * `3 in 1 IoT/Smart Car/Learning Kit V2.0 <https://docs.sunfounder.com/projects/3in1-kit-v2/en/latest/>`_
