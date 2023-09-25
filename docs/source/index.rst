@@ -9,7 +9,9 @@
 学习套件
 ---------
 
-* `SunFounder Uno R3学习套件 <https://docs.sunfounder.com/projects/uno-mega-kit-cn/zh/latest/>`_
+* `SunFounder Uno R3学习套件 <https://docs.sunfounder.com/projects/uno-mega-kit/zh/latest/>`_
+* `Mammoth Coding <https://docs.sunfounder.com/projects/kaka-kit/en/latest/>`_
+
 
 
 机器人套件
