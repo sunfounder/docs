@@ -25,6 +25,7 @@ Learning Kits
 
 **Arduino**
 
+* `Elite Explorer Kit with original Arduino UNO R4 WiFi <https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/>`_
 * `3-in-1 Starter Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `Ultimate Sensor Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/ultimate-sensor-kit/en/latest/>`_
 * `R4 Basic Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/r4-basic-kit/en/latest/>`_
@@ -88,7 +89,7 @@ Projects
 
 Screens(Raspberry Pi)
 =============================
-
+* `TS-10 L 10.1” Touch Screen <https://docs.sunfounder.com/projects/ts10l/en/latest/index.html>`_
 * `RasPad 3 <https://docs.raspad.com/en/latest/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
 * `TS-7 Pro 7-inch Touch Screen <https://docs.sunfounder.com/projects/ts7-pro/en/latest/>`_
