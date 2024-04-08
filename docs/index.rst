@@ -24,7 +24,7 @@ Learning Kits
 
 
 **Arduino**
-
+* `Universal Maker Sensor Kit <https://docs.sunfounder.com/projects/umsk/en/latest/>`_
 * `Elite Explorer Kit with original Arduino UNO R4 WiFi <https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/>`_
 * `3-in-1 Starter Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/3in1-kit-r4/en/latest/>`_
 * `Ultimate Sensor Kit for Arduino UNO R4 Minima <https://docs.sunfounder.com/projects/ultimate-sensor-kit/en/latest/>`_
@@ -74,6 +74,8 @@ Projects
 
 **Raspberry Pi**
 
+* `Pironman U1 <https://docs.sunfounder.com/projects/pironman-u1/en/latest/>`_
+* `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
 * `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
