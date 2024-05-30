@@ -87,6 +87,14 @@ Projects
 * `Pan-Tilt HAT V3.0 <https://docs.sunfounder.com/projects/pantilt-v3/en/latest/>`_
 * `Raspberry Pi RGB Matrix Module <https://docs.sunfounder.com/projects/rgb-matrix-rpi/en/latest/>`_
 
+**Common**
+
+* `BreadVolt Breadboard Power Supply Module <https://docs.sunfounder.com/projects/breadvolt/en/latest/index.html>`_
+
+**ESP32**
+
+* `ESP32 Camera Pro Kit <https://docs.sunfounder.com/projects/esp32-camera-pro-kit/en/latest/index.html>`_
+
 **Arduino**
 
 * `Arduino RGB Matrix Module <https://docs.sunfounder.com/projects/rgb-matrix/en/latest/index.html>`_
