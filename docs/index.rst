@@ -76,6 +76,7 @@ Projects
 
 **Raspberry Pi**
 
+* `PiPower 3 <https://docs.sunfounder.com/projects/pipower3/en/latest/>`_
 * `Pironman U1 <https://docs.sunfounder.com/projects/pironman-u1/en/latest/>`_
 * `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
 * `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
