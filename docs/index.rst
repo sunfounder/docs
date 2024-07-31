@@ -25,6 +25,8 @@ Learning Kits
 
 **Arduino**
 
+
+* `Inventor Lab Kit <https://docs.sunfounder.com/projects/inventor-lab-kit/en/latest/>`_
 * `Beginner's Lab Kit <https://docs.sunfounder.com/projects/beginners-lab-kit/en/latest/>`_
 * `Universal Maker Sensor Kit <https://docs.sunfounder.com/projects/umsk/en/latest/>`_
 * `Elite Explorer Kit with original Arduino UNO R4 WiFi <https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/>`_
