@@ -110,8 +110,11 @@ Screens(Raspberry Pi)
 * `TS-7 7-inch DIY Touch Screen <https://docs.sunfounder.com/projects/ts-7/en/latest/index.html>`_
 * `TS-7C 7-inch Touch Screen <https://docs.sunfounder.com/projects/ts-7c/en/latest/index.html>`_
 * `TS-10 10.1-inch Touch Screen <https://docs.sunfounder.com/projects/ts-10/en/latest/>`_
-* `TS-10 Pro 10.1-inch Touch Screen <https://docs.sunfounder.com/projects/ts10-pro/en/latest/index.html>`_
 * `Rascam- DIY Camera Kit <https://docs.sunfounder.com/projects/rascam/en/latest/index.html>`_
+
+
+
+.. * `TS-10 Pro 10.1-inch Touch Screen <https://docs.sunfounder.com/projects/ts10-pro/en/latest/index.html>`_
 
 Others
 ==============
