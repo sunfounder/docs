@@ -1,7 +1,3 @@
-.. SunFounder documentation master file, created by
-   sphinx-quickstart on Tue Feb  2 10:26:00 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
 Welcome to SunFounder's Documentations!
 ============================================
@@ -83,7 +79,7 @@ Projects
 * `PiPower 3 <https://docs.sunfounder.com/projects/pipower3/en/latest/>`_
 * `Pironman U1 <https://docs.sunfounder.com/projects/pironman-u1/en/latest/>`_
 * `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
-* `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
+.. * `Pironman V2.0 <https://docs.sunfounder.com/projects/pironman-v2/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
 * `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
