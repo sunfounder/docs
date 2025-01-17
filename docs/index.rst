@@ -73,6 +73,7 @@ Projects
 **Raspberry Pi**
 
 * `PiPower 3 <https://docs.sunfounder.com/projects/pipower3/en/latest/>`_
+* `PiPower 5 <https://docs.sunfounder.com/projects/pipower5/en/latest/>`_
 * `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
