@@ -76,11 +76,15 @@ Projects
 * `PiPower 5 <https://docs.sunfounder.com/projects/pipower5/en/latest/>`_
 * `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
-* `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
 * `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
-* `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
-* `Pan-Tilt HAT V2.0 <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
 * `Pan-Tilt HAT V3.0 <https://docs.sunfounder.com/projects/pantilt-v3/en/latest/>`_
+
+
+.. * `PiPower Pro <https://docs.sunfounder.com/projects/pipower-pro/en/latest/>`_
+.. * `PiPower <https://docs.sunfounder.com/projects/pipower/en/latest/>`_
+.. * `Pan-Tilt HAT V2.0 <https://docs.sunfounder.com/projects/pan-tilt-hat/en/latest/index.html>`_
+
+
 
 **Common**
 
