@@ -74,7 +74,8 @@ Projects
 
 * `PiPower 3 <https://docs.sunfounder.com/projects/pipower3/en/latest/>`_
 * `PiPower 5 <https://docs.sunfounder.com/projects/pipower5/en/latest/>`_
-* `Pironman 5 <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
+* `Pironman 5 Series <https://docs.sunfounder.com/projects/pironman5/en/latest/>`_
+* `NVMe PIP Series <https://nvme-kit.readthedocs.io/en/latest/index.html>`_
 * `Icecube Tower Cooler <https://docs.sunfounder.com/projects/icecube/en/latest/>`_
 * `PiPower V2.0 <https://docs.sunfounder.com/projects/pipower-v2/en/latest/>`_
 * `Pan-Tilt HAT V3.0 <https://docs.sunfounder.com/projects/pantilt-v3/en/latest/>`_
@@ -108,7 +109,8 @@ Others
 ==============
 * `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
 * `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
-* `Robot HAT V4.0 <https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/>`_
+* `Fusion HAT <https://fusion-hat.readthedocs.io/en/latest/index.html>`_
+* `Robot HAT V4.0 & V5.0 <https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/>`_
 * `Robot HAT <https://docs.sunfounder.com/projects/robot-hat/en/latest/>`_
 * `SunFounder Controller <https://docs.sunfounder.com/projects/sf-controller/en/latest/>`_
 
