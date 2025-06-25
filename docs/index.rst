@@ -39,7 +39,7 @@ Learning Kits
 **ESP32**
 
 * `ESP32 Starter Kit <https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/>`_
-* `ESP32 Camera Pro Kit <https://docs.sunfounder.com/projects/esp32-camera-pro-kit/en/latest/index.html>`_
+* `ESP32 Camera Pro Kit <https://docs.sunfounder.com/projects/esp-cam-kit/en/latest/index.html>`_
 
 
 Robot Kits
