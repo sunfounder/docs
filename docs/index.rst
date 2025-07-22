@@ -7,6 +7,7 @@ Learning Kits
 
 **Raspberry Pi**
 
+* `AI Explorer Lab Kit <https://docs.sunfounder.com/projects/ai-lab-kit/en/latest/>`_
 * `Pico 2 W Starter Kit <https://docs.sunfounder.com/projects/pico-2w-kit/en/latest/>`_
 * `Newton Lab Kit for Raspberry Pi Pico 2 <https://docs.sunfounder.com/projects/newton-lab-kit/en/latest/>`_
 * `Kepler Kit for Raspberry Pi Pico W <https://docs.sunfounder.com/projects/kepler-kit/en/latest/>`_
