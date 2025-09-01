@@ -51,7 +51,6 @@ Robot Kits
 * `PiCrawler Robot Kit <https://docs.sunfounder.com/projects/pi-crawler/en/latest/>`_
 * `PiDog Robot Kit <https://docs.sunfounder.com/projects/pidog/en/latest/>`_
 * `PiCar-X Car Kit V2.0 with Baterry <https://docs.sunfounder.com/projects/picar-x-v20/en/latest/>`_
-* `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 * `PiSloth Robot Kit <https://docs.sunfounder.com/projects/pisloth/en/latest/>`_
 * `PiArm Robotic Arm Kit <https://docs.sunfounder.com/projects/piarm/en/latest/>`_
 * `Pico-4wd Car Kit <https://docs.sunfounder.com/projects/pico-4wd-car/en/latest/index.html>`_
@@ -59,6 +58,8 @@ Robot Kits
 * `Picar-4wd Car Kit <https://docs.sunfounder.com/projects/picar-4wd/en/latest/>`_
 * `PiCar-V Car Kit <https://docs.sunfounder.com/projects/picar-v/en/latest/>`_
 * `PiCar-S Car Kit <https://docs.sunfounder.com/projects/picar-s/en/latest/>`_
+
+.. * `PiCar-X Car Kit <https://docs.sunfounder.com/projects/picar-x/en/latest/>`_
 
 **Arduino**
 
@@ -97,6 +98,8 @@ Projects
 
 Screens(Raspberry Pi)
 =============================
+
+* `3.5'' IPS Touch Screen <https://docs.sunfounder.com/projects/35-ips-screen/en/latest/>`_
 * `TS-10 L 10.1” Touch Screen <https://docs.sunfounder.com/projects/ts10l/en/latest/index.html>`_
 * `RasPad 3 <https://docs.raspad.com/en/latest/>`_
 * `Retro Game HAT <https://docs.sunfounder.com/projects/retro-game-hat/en/latest/>`_
