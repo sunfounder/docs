@@ -113,7 +113,7 @@ Others
 ==============
 * `Ezblock 3 <https://docs.sunfounder.com/projects/ezblock3/en/latest/>`_
 * `SunFounder Create Agent <https://docs.sunfounder.com/projects/sunfounder-create-agent/en/latest/>`_
-* `Fusion HAT <https://fusion-hat.readthedocs.io/en/latest/index.html>`_
+* `Fusion HAT+ <https://fusion-hat.readthedocs.io/en/latest/index.html>`_
 * `Robot HAT V4.0 & V5.0 <https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/>`_
 * `Robot HAT <https://docs.sunfounder.com/projects/robot-hat/en/latest/>`_
 * `SunFounder Controller <https://docs.sunfounder.com/projects/sf-controller/en/latest/>`_
